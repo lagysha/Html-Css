@@ -371,9 +371,7 @@ tfoot td {
     .menu_cs {
         font-style: 125%;
     }
-}
 
-@media screen and (min-width: 576px) {
     .header__h1::after {
         content: ' 🌮';
     }
